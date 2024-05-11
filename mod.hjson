@@ -1,10 +1,10 @@
 name: animalia
-displayName: "Animalia"
-description: "A fun mod that contains Animals, Plants, Natural disasters and a lot more!"
-author: "Flin"
+displayName: "Modded Animalia"
+description: "A fun modded mod that contains Animals, Plants, Natural disasters and a lot more and more!"
+author: "Galaxium"
 java: true
 main: "animalia.Animalia"
-repo: FlinTyX/Animalia
+repo: GalaxiumNation/Animalia-A_Mod_of_a_Mod
 keepOutlines: true
 version: "java 1.0"
 minGameVersion: 141
